@@ -1,6 +1,6 @@
 # Dockerización de un servidor completo en Cloud // Dockerization of a complete server on Cloud.
 
-¡Hola! Somos Gerardo Robustiello y Juan Manuel Nodal, alumnos del ciclo formativo de grado superior Administración de Sistemas Informáticos en Red (ASIR).
+¡Hola! Somos Gerardo Robustiello y Juan Manuel Nodal, alumnos del ciclo formativo de grado superior Administración de Sistemas Informáticos en Red (ASIR). <br>
 Nuestro proyecto de fin de ciclo ha consistido en la creación de una infraestructura de tipo seguro en AWS que consta de un servidor en una red interna protegido por un bastión.
 Además, los servicios que presta el servidor los proporcionan imágenes Docker creadas por nosotros. Esto supone un incremento enorme en flexibilidad, escalabilidad y sencillez respecto a un servidor tradicional y a otras alternativas posibles.
 Otro objetivo del proyecto consistía en formarnos en Cloud y Docker, dos conceptos claves en el presente y futuro de la informática que no se incluyen en el temario del ciclo.
