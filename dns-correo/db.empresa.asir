@@ -1,0 +1,25 @@
+;
+; BIND data file for local loopback interface
+;
+$TTL    604800
+@       IN      SOA     ns.empresa.asir. root.empresa.asir. (
+                              3         ; Serial
+                         604800         ; Refresh
+                          86400         ; Retry
+                        2419200         ; Expire
+                         604800 )       ; Negative Cache TTL
+;
+@       IN      NS      ns.empresa.asir.
+@       IN      NS      empresa.asir.
+@       IN      A       15.236.112.115
+;
+@       IN      MX      0 mail
+;
+; IP BASTION
+ns      IN      A       15.236.112.115
+mail    IN      A       15.236.112.115
+;
+; IP HOSTS RED LOCAL
+direccion       IN      A       192.168.1.200
+rrhh            IN      A       192.168.1.201
+

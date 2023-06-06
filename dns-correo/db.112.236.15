@@ -1,0 +1,14 @@
+$TTL    604800
+@       IN      SOA     empresa.asir. root.empresa.asir. (
+                              4         ; Serial
+                         604800         ; Refresh
+                          86400         ; Retry
+                        2419200         ; Expire
+                         604800 )       ; Negative Cache TTL
+;
+@       IN      NS      ns.empresa.asir.
+;
+115     IN      PTR     ns.empresa.asir.
+115     IN      PTR     mail.empresa.asir.
+115     IN      PTR     empresa.asir.
+
