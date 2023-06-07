@@ -9,7 +9,7 @@ Puedes encontrar las imágenes Docker en este repositorio de DockerHub: https://
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Hi! We are Gerardo Robustiello and Juan Manuel Nodal, students of the Higher Degree Training Cycle in System Administration. <br><br>
-Ourfinal cycle project consisted of creating a secure infrastructure on AWS, wich includes a server in an internal network protected by a bastion-host. <br>
+Our final cycle project consisted of creating a secure infrastructure on AWS, wich includes a server in an internal network protected by a bastion-host. <br>
 Furthermore, the services provided by the server are delivered through Docker images created by us. This represents a significant increase in flexibility, scalability and simplicity compared to a traditional server and other possible alternatives.<br>
 Another objective of the project was to train ourselves in Cloud and Docker, two key concepts in the present and future of computing that are not included in the curriculum of the cycle.<br>
 In this repository, you can find the configuration files of the services provided by Docker images (HTTP-apache2, FTP-vsftpd, DNS-bind9, email-postfix-dovecot), as well as the Dockerfiles used to create said images. A copy of the project report is also included. The project report is available in Spanish only.<br>
